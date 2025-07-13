@@ -1,0 +1,84 @@
+*{
+     font-family: "Ubuntu Condensed", sans-serif;
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+body{
+height:100vh;
+background-image:
+linear-gradient(to right,#01022d,black);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.container{
+    background-image:
+    linear-gradient(to right,#01022de5 30%,#00000098),
+    url(download.webp);
+  width:90%;
+ height:95%;
+ background-position: center;
+}
+
+.container:hover{
+     background-image:
+    linear-gradient(to right,#01022de5,transparent),
+    url(download.webp);
+}
+
+.Head{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding:10px;
+}
+.logo{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+ul{
+    width:60%;
+    list-style:none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul a:hover{
+    border-bottom: solid 2px white;
+}
+
+.content{
+   color:white;
+    width:50%;
+    margin-top:60px;
+    padding:30px
+}
+h2{
+    font-size: 100px;
+    text-transform: uppercase;
+}
+.content p{
+    letter-spacing: 3px;
+    width:300px;
+     word-break: break-all;
+     padding:20px 0;
+}
+button{
+    margin-top:20px;
+    font-size:30px;
+    padding:10px;
+    border-radius: 10%;
+    border:2px solid transparent;
+}
+
+.content button:hover{
+background:transparent;
+border-color:white;
+color:white;
+cursor: pointer;
+}
