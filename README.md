@@ -47,4 +47,3 @@ Built with **HTML** and **CSS**, using **Google Fonts** for stylish typography a
 > _(You can add a screenshot here later if you want to showcase the design)_
 
 ---
-
