@@ -7,7 +7,7 @@ Built with **HTML** and **CSS**, using **Google Fonts** for stylish typography a
 
 ## 🔗 Live Demo
 
-> _Coming soon..._
+ https://mohamed12511.github.io/HTML-AND-CSS-Templates-/
 
 ---
 
@@ -48,25 +48,3 @@ Built with **HTML** and **CSS**, using **Google Fonts** for stylish typography a
 
 ---
 
-## 🚀 Getting Started
-
-To run the project locally:
-
-```bash
-git clone https://github.com/Mohamed12511/YourRepoName.git
-```
-
-Then open the `index.html` file in your browser.
-
----
-
-## 📌 Notes
-
-- You can rename `C.css` to `style.css` for better clarity.  
-- This project is beginner-friendly and good for learning or customizing.
-
----
-
-## 📜 License
-
-This project is made for learning purposes and is free to use or modify.
